@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestFuncApp", "RestFuncApp.csproj", "{F60C54D4-AD95-443E-BB2E-F5CEA7553151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60C54D4-AD95-443E-BB2E-F5CEA7553151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60C54D4-AD95-443E-BB2E-F5CEA7553151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60C54D4-AD95-443E-BB2E-F5CEA7553151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60C54D4-AD95-443E-BB2E-F5CEA7553151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {165283B2-C24E-44A0-9944-94013106F4DE}
+	EndGlobalSection
+EndGlobal
