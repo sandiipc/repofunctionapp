@@ -63,8 +63,8 @@ namespace RestFuncApp
 
 
 
-        [FunctionName("UpdateTask")]
-        public static async Task<IActionResult> UpdateTask(
+        [FunctionName("EditTask")]
+        public static async Task<IActionResult> EditTask(
             [HttpTrigger(AuthorizationLevel.Function, "put", Route = "task/{id}")] HttpRequest req,
             ILogger log, string id)
         {
